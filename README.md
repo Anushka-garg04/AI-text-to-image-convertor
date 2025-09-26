@@ -1,5 +1,4 @@
 # AI-text-to-image-convertor
-# AI Text to Image Generator
 
 A powerful AI-powered text-to-image generator using Stable Diffusion v1.5. This project allows you to create stunning images from text descriptions with intelligent prompt optimization and token management.
 
